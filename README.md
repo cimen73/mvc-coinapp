@@ -1,5 +1,6 @@
 # mvc-coinapp
 <hr></hr>
+
 ![](src/coin.gif)
 <hr></hr>
 
